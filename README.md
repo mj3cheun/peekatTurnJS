@@ -1,3 +1,4 @@
 # peekatTurnJS
-Pageflip and book library forked from blasten's turn.js v4
-Manfred's modified this to work with Peekapak's needs, but is cautioning that this could be a rabbit hole.
+This is the main repository for a pageflip and book library forked from blasten's turn.js v4 which has been modified to meet Peekapak's needs.
+
+The library is currently used for Peekapak's book reader.
